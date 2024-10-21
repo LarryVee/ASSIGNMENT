@@ -4,18 +4,20 @@
     border-left: none;
     border-bottom: none;
     margin-top: auto;
-    margin-left: 300px;
+    /* margin-left: 300px; */
+    padding-left:500px;
+    padding-right: 50px;
 }
 .tech-heading {
- background-color:gray;
  background-size:10px;
  width: 400px;
  margin-top:-20px;
  margin-bottom: 50px;
- padding-bottom: 10px;
  background-size: 100px;
  color:chocolate;
+ padding-bottom: 10px;
  font-size: 15px;
+ background-color: cornflowerblue;
 }    
 .tech-blog {
     text-decoration: none;
@@ -35,7 +37,7 @@
 }
 .top-tag {
     position: absolute;
-    left: 730px;
+    left: 930px;
     color:black;
     background-color:#ffff00;
     text-transform: uppercase;
@@ -57,7 +59,7 @@
 .like-button {
     position: absolute;
     color: red;
-    bottom: -1300px;
+    bottom: -1150px;
     text-transform: uppercase;
     right:60px;
     width: 70px;
