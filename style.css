@@ -1,0 +1,124 @@
+.tech-page {
+    border: 5px solid aqua;
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+    margin-top: auto;
+    margin-left: 300px;
+}
+.tech-heading {
+ background-color:gray;
+ background-size:10px;
+ width: 400px;
+ margin-top:-20px;
+ margin-bottom: 50px;
+ padding-bottom: 10px;
+ background-size: 100px;
+ color:chocolate;
+ font-size: 15px;
+}    
+.tech-blog {
+    text-decoration: none;
+    color: chocolate;
+}
+.tech-challenge{
+    text-decoration: none;
+    color: chocolate;
+}
+.tech-flexbox {
+    text-decoration: none;
+    color: chocolate;
+}
+.tech-grid {
+    text-decoration: none;
+    color: chocolate;
+}
+.top-tag {
+    position: absolute;
+    left: 730px;
+    color:black;
+    background-color:#ffff00;
+    text-transform: uppercase;
+    width: 45px;
+    text-align: center;
+    top:115px;
+    }
+.tech-language {
+    color: aqua;
+    
+}
+.tech-image {
+    margin-bottom:-20px;
+}
+.tech-person {
+    margin-top: none;
+    margin-bottom:-9px;
+}
+.like-button {
+    position: absolute;
+    color: red;
+    bottom: -1300px;
+    text-transform: uppercase;
+    right:60px;
+    width: 70px;
+    height: 30px;
+    font-weight: 400;
+}
+.tech-more-html {
+    color: aquamarine;
+} 
+.tech-reasons {
+    color: aqua;
+}
+.tech-expect {
+    margin-bottom: 50px;  
+}
+.more-page{
+    border-top: 4px solid gray;
+    border-bottom: 4px solid grey;
+    height: 400px;
+    width:450px;
+    background-color: antiquewhite;
+}
+.more-related {
+ text-transform: uppercase;
+ text-align: center;
+ margin-bottom:-20px;
+ padding: bottom -50px;
+}
+.more-about {
+    color: rgb(5, 61, 42);
+     text-decoration: none;
+}
+.more-about:hover{
+    color: red;
+    
+}
+.more-java {
+    border: 100px;
+    color: darkred;
+    text-decoration: none;
+}
+.more-java:hover {
+     text-decoration: none;
+     color: cyan;
+}
+.more-css {
+    border: 100px;
+    margin-bottom: 100px;
+    color: rgb(4, 54, 4);
+    text-decoration: none;
+}
+.more-css:hover {
+    text-decoration: none;
+    color: springgreen;
+
+
+}
+.web-docs{
+     color: chartreuse;
+        text-decoration: none;
+    }
+    .web-docs:hover{
+        color: #b51a1a;
+    }
